@@ -1,30 +1,59 @@
-# 🌐 Página Personal – Polsyto
+# 👋 ¡Hola, mundo! Soy **Polsyto** 🌍💻
 
-Bienvenido/a a mi sitio web personal. Aquí comparto mis proyectos, conocimientos y evolución como desarrollador.
+> 🧠 _“Aprender no es obligatorio… pero tampoco lo es sobrevivir.” – W. Edwards Deming_
 
-## 👨‍💻 Sobre mí
+---
 
-Soy estudiante de 1º de Desarrollo de Aplicaciones Web. Más adelante cursaré Desarrollo de Aplicaciones Multiplataforma y un máster en Ciberseguridad. Me apasiona la tecnología, la programación y aprender cosas nuevas constantemente.
+🎓 **Estudiante de 1º de Desarrollo de Aplicaciones Web**  
+🚀 Futuro **Desarrollador Multiplataforma**  
+🛡️ Apasionado por la **Ciberseguridad**  
+📅 Entregado a mis proyectos y **planificando mi trayectoria profesional desde ya**
 
-## 🚀 Tecnologías que manejo
+---
 
-- Java, MySQL
-- HTML5, CSS3
-- JavaScript (básico)
-- Git y GitHub
-- XML, XSLT
+## 🧰 Lenguajes y Tecnologías que estoy practicando
 
-*Próximamente:*Android, Python, Ciberseguridad.
+| 💻 Lenguajes / Herramientas  | 🧠 Nivel | 🛠️ Comentario |
+|------------------------------|---------|----------------|
+| `HTML5` + `CSS3`             | ⭐⭐⭐⭐☆ | Base sólida, estilo en progreso |
+| `JavaScript`                 | ⭐⭐⭐☆☆ | Divirtiéndome con interactividad |
+| `XML` / `XSLT`               | ⭐⭐⭐⭐☆ | ¡Dominando etiquetas y transformaciones! |
+| `SQL`                        | ⭐⭐⭐⭐☆ | Consultas, joins y procedimientos stored 💾 |
+| `Bash`                       | ⭐⭐⭐☆☆ | Automático como un ninja de la terminal 🐚 |
+| `Git` / `GitHub`             | ⭐⭐⭐☆☆ | Versionando como un profesional |
+| `Markdown`                  | ⭐⭐⭐⭐☆ | Perfecto para documentarlo todo 📝 |
 
-## 📂 Proyectos destacados
+> 🧪 Y esto es solo el **comienzo**... ¡el stack crecerá!
 
-- 🔧 **Página Web de Attack on Titan**  
-  Una de mis primares web, en la que añadí informacion, episodios y galeria de imagenes
+---
 
-- 💡 **Gestión de una comunidad de vecinos (XML)**  
-  Proyecto académico para practicar estructuras XML complejas.
+## 🧩 Proyectos recientes
 
-## 🖥️ Página web
+- 🔧 **Integración de Sindicación de Contenidos Empresariales**  
+  Para la asignatura de *Lenguaje de Marcas y Sistemas de Gestión de la Información*
+
+- 🧾 **Catálogos XML + XSLT**  
+  Transformando datos como un alquimista del código
+
+- 🔁 **Scripts Bash**  
+  Automatizando tareas y aprendiendo los poderes del terminal
+
+---
+
+## 🧭 ¿A dónde voy?
+
+🎯 Mi objetivo: Convertirme en un **desarrollador full-stack**  
+🌐 Con enfoque en seguridad, sistemas y tecnologías web  
+📚 Y seguir aprendiendo todos los días
+
+---
+
+## 📫 ¡Conectemos!
+
+- 🌐 [Mi GitHub](https://github.com/polsyt0)
+- 📥 ¡Abierto a colaboraciones, ideas locas y retos de código!
+
+- ## 🖥️ Página web
 
 Puedes visitar la página en:  
 👉 [https://Polsyt0.github.io](https://Polsyt0.github.io)
@@ -36,4 +65,8 @@ Si quieres contactarme:
 
 ---
 
-Gracias por visitar mi perfil. ¡Seguimos creciendo! 🚀
+> 🤖 _“El mejor código es el que aún no has escrito. Pero ya tienes el teclado para hacerlo.”_
+
+---
+
+
