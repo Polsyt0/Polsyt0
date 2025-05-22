@@ -71,7 +71,7 @@ Si quieres contactarme:
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:1e90ff&height=200&section=header&text=¡Hola%20👋%20soy%20[Tu%20Nombre]!&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img src="![Banner](https://github.com/user-attachments/assets/c95d8656-7bce-4923-82b1-8449d6cafd32)" alt="header" />
 </p>
 
 <p align="center">
