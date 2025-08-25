@@ -4,7 +4,7 @@
 
 ---
 
-🎓 **Estudiante de 1º de Desarrollo de Aplicaciones Web**  
+🎓 **Estudiante de 2º de Desarrollo de Aplicaciones Web**  
 🚀 Futuro **Desarrollador Multiplataforma**  
 🛡️ Apasionado por la **Ciberseguridad**  
 📅 Entregado a mis proyectos y **planificando mi trayectoria profesional desde ya**
