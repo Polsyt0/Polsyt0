@@ -5,66 +5,52 @@
 
 ---
 
-🎓 **Estudiante de 2º de Desarrollo de Aplicaciones Web**  
-🛡️ Apasionado por la **Ciberseguridad**  
-📅 Entregado a mis proyectos y **planificando mi trayectoria profesional desde ya**
+# Polsyt0 – Portafolio de Desarrollo Web
+
+Bienvenido a mi perfil de GitHub.  
+Soy estudiante de segundo curso del ciclo **Desarrollo de Aplicaciones Web (DAW)** en la **Universidad Católica de Murcia (UCAM)**.  
+Este espacio reúne mis proyectos, prácticas y ejercicios de programación, con el objetivo de mostrar mis competencias técnicas, mi evolución como desarrollador y mi interés en el desarrollo de software profesional.
 
 ---
 
-## 🧰 Lenguajes y Tecnologías que estoy practicando
+## Sobre mí
 
-| 💻 Lenguajes / Herramientas  | 🧠 Nivel | 🛠️ Comentario |
-|------------------------------|---------|----------------|
-| `HTML5` + `CSS3`             | ⭐⭐⭐⭐☆ | Base sólida, estilo en progreso |
-| `JavaScript`                 | ⭐⭐⭐☆☆ | Divirtiéndome con interactividad |
-| `XML` / `XSLT`               | ⭐⭐⭐⭐☆ | ¡Dominando etiquetas y transformaciones! |
-| `SQL`                        | ⭐⭐⭐⭐☆ | Consultas, joins y procedimientos stored 💾 |
-| `Bash`                       | ⭐⭐⭐☆☆ | Automático como un ninja de la terminal 🐚 |
-| `Git` / `GitHub`             | ⭐⭐⭐☆☆ | Versionando como un profesional |
-| `Markdown`                  | ⭐⭐⭐⭐☆ | Perfecto para documentarlo todo 📝 |
+Mi formación está centrada en el desarrollo de aplicaciones web tanto en cliente como en servidor.  
+Durante mis estudios he trabajado de forma continua con las principales tecnologías del sector, aplicando **buenas prácticas de programación, control de versiones con Git y GitHub, y metodologías de desarrollo organizadas**.  
 
-> 🧪 Y esto es solo el **comienzo**... ¡el stack crecerá!
+Me interesa especialmente:  
+- La creación de aplicaciones web dinámicas y escalables.  
+- La organización y limpieza del código.  
+- La automatización de tareas mediante scripts.  
+- La mejora constante de mis conocimientos en entornos de desarrollo profesional.  
 
 ---
 
-## 🧩 Proyectos recientes
+## Lenguajes y tecnologías
 
-- 🔧 **Integración de Sindicación de Contenidos Empresariales**  
-  Para la asignatura de *Lenguaje de Marcas y Sistemas de Gestión de la Información*
+A lo largo de mi trayectoria he adquirido experiencia en:
 
-- 🧾 **Catálogos XML + XSLT**  
-  Transformando datos como un alquimista del código
+- **PHP** – programación del lado del servidor, gestión de sesiones, formularios y bases de datos.  
+- **JavaScript (ES6+)** – interactividad en cliente, validaciones, manipulación del DOM.  
+- **HTML5** – estructura semántica de sitios y aplicaciones.  
+- **CSS3** – diseño adaptable, maquetación y personalización visual.  
+- **MySQL** – gestión de bases de datos relacionales.  
 
-- 🔁 **Scripts Bash**  
-  Automatizando tareas y aprendiendo los poderes del terminal
-
----
-
-## 🧭 ¿A dónde voy?
-
-🎯 Mi objetivo: Convertirme en un **desarrollador full-stack**  
-🌐 Con enfoque en seguridad, sistemas y tecnologías web  
-📚 Y seguir aprendiendo todos los días
+Además, trabajo habitualmente con:  
+- **Git y GitHub** – control de versiones y gestión de repositorios.  
+- **XAMPP** – entorno local de desarrollo con Apache, PHP y MySQL.  
+- **Visual Studio Code** – editor de código principal.  
 
 ---
 
-## 📫 ¡Conectemos!
+## Filosofía de trabajo
 
-- 🌐 [Mi GitHub](https://github.com/polsyt0)
-- 📥 ¡Abierto a colaboraciones, ideas locas y retos de código!
+- **Código claro y mantenible**: priorizo la legibilidad y la organización sobre la complejidad innecesaria.  
+- **Aprendizaje continuo**: cada proyecto es una oportunidad para aplicar nuevas técnicas y corregir errores previos.  
+- **Metodología progresiva**: parto de ejemplos sencillos que evolucionan hacia soluciones más robustas.  
+- **Enfoque profesional**: busco aplicar prácticas que serían válidas tanto en un entorno académico como en un equipo de desarrollo real.  
 
-- ## 🖥️ Página web
 
-Puedes visitar la página en:  
-👉 [https://Polsyt0.github.io](https://Polsyt0.github.io)
 
-## 📫 Contacto
-
-Si quieres contactarme:  
-📧 [polsyto.contacto@gmail.com](mailto:polsyto.contacto@gmail.com)
-
----
-
-> 🤖 _“El mejor código es el que aún no has escrito. Pero ya tienes el teclado para hacerlo.”_
 
 
