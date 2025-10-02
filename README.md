@@ -1,11 +1,11 @@
 # 👋 ¡Hola, mundo! Soy **Polsyto** 🌍💻
 
-> 🧠 _“Aprender no es obligatorio… pero tampoco lo es sobrevivir.” – W. Edwards Deming_
+![Banner3](https://github.com/user-attachments/assets/b26347d8-6e84-4125-84ee-7258b28b980c)
+
 
 ---
 
 🎓 **Estudiante de 2º de Desarrollo de Aplicaciones Web**  
-🚀 Futuro **Desarrollador Multiplataforma**  
 🛡️ Apasionado por la **Ciberseguridad**  
 📅 Entregado a mis proyectos y **planificando mi trayectoria profesional desde ya**
 
