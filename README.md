@@ -1,4 +1,4 @@
-# Pablo Egea (Polsyto) – Portafolio de Desarrollo Web
+# Pablo Egea (Polsyto) – Portfolio de Desarrollo Web
 
 ![Banner3](https://github.com/user-attachments/assets/b26347d8-6e84-4125-84ee-7258b28b980c)
 
